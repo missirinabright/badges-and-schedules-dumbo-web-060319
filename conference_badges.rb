@@ -21,6 +21,6 @@ def printer(attendees)
     puts badge
 end    
 
-def assignment(attendees)
+assign_rooms(attendees). each do |
   
     
